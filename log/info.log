@@ -1,0 +1,11 @@
+2022-10-15  13:39:18,Sat tv_alert_server_app.py ERROR app 服务报错，报错信息：onTick() missing 1 required positional argument: 'price'
+2022-10-15  13:41:46,Sat autoTraderBot.py INFO 下单币种：ENSUSDT
+2022-10-15  13:41:46,Sat autoTraderBot.py INFO 下单价格：{{strategy.order.price}}
+2022-10-15  13:41:46,Sat autoTraderBot.py INFO 下单时间：2022-10-15 13:41:46
+2022-10-15  13:41:46,Sat autoTraderBot.py INFO 下单方向：short
+2022-10-15  13:41:46,Sat autoTraderBot.py INFO ----------------------------------------------------------------------------------------------------------------------------------
+2022-10-15  13:43:18,Sat autoTraderBot.py INFO 下单币种：ENSUSDT
+2022-10-15  13:43:18,Sat autoTraderBot.py INFO 下单价格：{{strategy.order.price}}
+2022-10-15  13:43:18,Sat autoTraderBot.py INFO 下单时间：2022-10-15 13:43:18
+2022-10-15  13:43:18,Sat autoTraderBot.py INFO 下单方向：tp_short
+2022-10-15  13:43:18,Sat autoTraderBot.py INFO ----------------------------------------------------------------------------------------------------------------------------------

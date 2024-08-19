@@ -147,6 +147,10 @@ tpShortComment = ["tp_sell","tp_short","TP_SELL","TP_SHORT","TP-SELL","TP-SHORT"
 
 ​	YouTube：https://www.youtube.com/watch?v=Sk1p_h_HKZA&t=3s
 
+​	欧意交易所注册邀请：http://psymxwcpixnt.com/join/2157021699 邀请码：2157021699
+
+​	多人多端稳定收费vpn邀请链接：http://yunti.run/S9cx83
+
 ​	币圈二哥量化的口号是：免费开源、暴富向前！！！	
 
 
